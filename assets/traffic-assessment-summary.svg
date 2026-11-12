@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<style>
+text{font-family:"Noto Sans TC","Microsoft JhengHei",Arial,sans-serif;fill:#1a2a44}.hero{fill:#fff;font-size:31px;font-weight:700}.sub{fill:#b9cbdf;font-size:14px}.value{font-size:35px;font-weight:800;fill:#2677c6}.heading{font-size:23px;font-weight:750}.body{font-size:16px}.small{font-size:14px;fill:#50647d}.num{font-size:16px;font-weight:700;fill:#fff}.light{fill:#edf4ff}.accent{fill:#00a9a5}
+</style>
+<rect width="1200" height="800" fill="#f3f6fb"/><rect width="1200" height="120" fill="#14263e"/><rect x="34" y="31" width="7" height="62" rx="3" fill="#23c1c2"/>
+<text x="57" y="64" class="hero">交通配時助手｜提案符合度與系統評估</text><text x="57" y="91" class="sub">TRAFFIC TIMING ASSISTANT · PROJECT INFOGRAPHIC · DIC3</text>
+<g><rect x="28" y="140" width="268" height="90" rx="12" fill="#fff"/><rect x="320" y="140" width="268" height="90" rx="12" fill="#fff"/><rect x="612" y="140" width="268" height="90" rx="12" fill="#fff"/><rect x="904" y="140" width="268" height="90" rx="12" fill="#fff"/>
+<text x="48" y="188" class="value">06</text><text x="110" y="183" class="body">完整評估章節</text><text x="340" y="188" class="value">08</text><text x="402" y="183" class="body">系統模組</text><text x="632" y="188" class="value">03</text><text x="694" y="183" class="body">候選配時方案</text><text x="924" y="188" class="value">02</text><text x="986" y="183" class="body">合成測試批次</text></g>
+<g fill="#fff" stroke="#dce5ef"><rect x="28" y="251" width="366" height="198" rx="13"/><rect x="417" y="251" width="366" height="198" rx="13"/><rect x="806" y="251" width="366" height="198" rx="13"/><rect x="28" y="468" width="366" height="198" rx="13"/><rect x="417" y="468" width="366" height="198" rx="13"/><rect x="806" y="468" width="366" height="198" rx="13"/></g>
+<g><rect x="45" y="268" width="36" height="28" rx="6" fill="#3579da"/><text x="52" y="287" class="num">01</text><rect x="434" y="268" width="36" height="28" rx="6" fill="#3579da"/><text x="441" y="287" class="num">02</text><rect x="823" y="268" width="36" height="28" rx="6" fill="#3579da"/><text x="830" y="287" class="num">03</text><rect x="45" y="485" width="36" height="28" rx="6" fill="#009c9a"/><text x="52" y="504" class="num">04</text><rect x="434" y="485" width="36" height="28" rx="6" fill="#009c9a"/><text x="441" y="504" class="num">05</text><rect x="823" y="485" width="36" height="28" rx="6" fill="#009c9a"/><text x="830" y="504" class="num">06</text></g>
+<g class="heading"><text x="91" y="289">Abstract 摘要</text><text x="480" y="289">Introduction 緒論</text><text x="869" y="289">Related Work 文獻</text><text x="91" y="506">Deep Research 深研</text><text x="480" y="506">Proposed Scheme 架構</text><text x="869" y="506">Evaluation 實驗</text></g>
+<g class="body"><text x="48" y="329">固定配時難因應不均衡車流</text><text x="48" y="358">以模型與規則選擇綠燈策略</text><text x="48" y="387">強調可解釋、低成本、可回退</text>
+<text x="437" y="329">三個核心問題</text><text x="437" y="358">① 為何選此策略？</text><text x="437" y="387">② 是否降低排隊與等待？</text><text x="437" y="416">③ 能否於邊緣平台執行？</text>
+<text x="826" y="329">蒐集交通控制與邊緣 AI 研究</text><text x="826" y="358">比較模型、場域、指標及限制</text><text x="826" y="387">外部成效不可直接當本案成果</text>
+<text x="48" y="546">研究流量、飽和與公平性</text><text x="48" y="575">比較固定配時與自適應控制</text><text x="48" y="604">說明安全回退設計</text>
+<text x="437" y="546">資料 → 特徵 → 決策樹</text><text x="437" y="575">三策略：均衡／南北／東西</text><text x="437" y="604">約束檢查 → ARM／FPGA 展示</text>
+<text x="826" y="546">相同車流與種子配對實驗</text><text x="826" y="575">等待、隊列、停等、通行量</text><text x="826" y="604">推論延遲、資源及回退次數</text></g>
+<rect x="28" y="692" width="1144" height="74" rx="12" fill="#e6eefb"/><text x="48" y="723" class="body">NEXT ｜ 模擬基準 → 決策樹與回退 → 對照實驗 → ARM／FPGA 驗證</text><text x="48" y="750" class="small">依上傳之 A4 橫式資訊圖表整理為 GitHub 可預覽 SVG；非原始 PDF 的逐像素複製。</text>
+</svg>
